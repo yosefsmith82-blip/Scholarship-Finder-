@@ -1,0 +1,213 @@
+{
+  "profile": {
+    "school": "Yeshiva University (New York, NY)",
+    "home_state": "California",
+    "major": "Business",
+    "exclude": [
+      "software engineering",
+      "computer science",
+      "STEM-only"
+    ],
+    "notes": "Many applicants at YU are Jewish, so Jewish community awards are included. Awards restricted to New York residents are left out, since the student is a California resident."
+  },
+  "last_updated": "2026-09-28",
+  "payout_key": {
+    "direct": "Paid to you as a cash prize (contests and competitions)",
+    "school": "Check goes to your school; any amount above your bill is refunded to you",
+    "unconfirmed": "The sponsor does not say publicly who the check is made out to; ask before relying on it"
+  },
+  "scholarships": [
+    {
+      "name": "Scholarships360 $10,000 \"No Essay\" Scholarship",
+      "amount": "$10,000",
+      "deadline": "2026-09-30",
+      "deadline_note": "Monthly rolling; if you miss it you are entered in the next month",
+      "category": "any-major",
+      "payout": "school",
+      "eligibility": "Any current or future college student. No essay.",
+      "url": "https://scholarships360.org/scholarships/search/10000-no-essay-scholarship/"
+    },
+    {
+      "name": "Baylor New Venture Competition 2027",
+      "amount": "$200,000+ in cash prizes",
+      "deadline": "2026-10-01",
+      "deadline_note": "11:59 pm Central",
+      "category": "business",
+      "payout": "direct",
+      "eligibility": "Startup team of 2 to 4 founders with equity; at least one full-time student at any university. Only worth it if you have a real venture.",
+      "url": "https://hankamer.baylor.edu/baugh-center/new-venture"
+    },
+    {
+      "name": "Niche $40,000 No Essay Scholarship",
+      "amount": "$40,000 (one winner)",
+      "deadline": "2026-10-15",
+      "deadline_note": "Random drawing; winner notified by Nov 15",
+      "category": "any-major",
+      "payout": "unconfirmed",
+      "eligibility": "High school, college and grad students; US citizen or valid visa. No essay.",
+      "url": "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/"
+    },
+    {
+      "name": "Niche $50,000 No Essay Scholarship (monthly $1,000 winners)",
+      "amount": "$1,000 each, at least 4 winners a month",
+      "deadline": "2026-10-31",
+      "deadline_note": "Monthly drawing",
+      "category": "any-major",
+      "payout": "unconfirmed",
+      "eligibility": "High school, college and grad students. No essay.",
+      "url": "https://www.niche.com/colleges/scholarships/?niche=niche-scholarships"
+    },
+    {
+      "name": "ScholarshipOwl \"You Deserve It\" No Essay Scholarship",
+      "amount": "$2,222 monthly",
+      "deadline": "2026-10-31",
+      "deadline_note": "Monthly rolling (end of each month). Free to apply; you never need to buy their paid plan.",
+      "category": "any-major",
+      "payout": "unconfirmed",
+      "eligibility": "US high school or college students age 16+, with a free ScholarshipOwl profile.",
+      "url": "https://scholarshipowl.com/scholarship/x50-no-essay-you-deserve-it-scholarship"
+    },
+    {
+      "name": "ParkON Scholarship for Business, Marketing or Hospitality Majors",
+      "amount": "$1,000 (2 winners)",
+      "deadline": "2026-11-15",
+      "deadline_note": "500 to 800 word essay on EV charging in airport parking",
+      "category": "business",
+      "payout": "school",
+      "eligibility": "Declared Business, Marketing or Hospitality major with at least 9 credits.",
+      "url": "https://www.parkon.com/info/scholarship"
+    },
+    {
+      "name": "Forté Future Leaders Scholarship",
+      "amount": "$1,000 (10 awarded Mar to Dec)",
+      "deadline": "2026-12-02",
+      "deadline_note": "Last monthly selection",
+      "category": "business",
+      "payout": "unconfirmed",
+      "eligibility": "Undergraduate business major or minor. Forté serves women, so apply only if you are a woman.",
+      "url": "https://www.fortefoundation.org/college/scholarships/"
+    },
+    {
+      "name": "Elie Wiesel Prize in Ethics Essay Contest",
+      "amount": "$5,000 / $2,500 / $1,500 / 2 x $500",
+      "deadline": "2027-01-20",
+      "deadline_note": "3,000 to 4,000 word ethics essay. A business-ethics topic works.",
+      "category": "business-adjacent",
+      "payout": "direct",
+      "eligibility": "Full-time undergraduates at a four-year college in the US or Canada.",
+      "url": "https://eliewieselfoundation.org/prize-in-ethics/"
+    },
+    {
+      "name": "Atlas Shrugged Essay Contest (Ayn Rand Institute)",
+      "amount": "$1,000 to $3,000 per season; $25,000 annual grand prize",
+      "deadline": "2027-01-31",
+      "deadline_note": "Runs in seasonal rounds; check the site for the round that is open now",
+      "category": "business-adjacent",
+      "payout": "direct",
+      "eligibility": "Any high school, college or grad student. 800 to 1,600 word essay on the novel (capitalism, business and markets).",
+      "url": "https://aynrand.org/students/essay-contests/atlas-shrugged"
+    },
+    {
+      "name": "IMA Memorial Education Fund Scholarship",
+      "amount": "$1,000 to $2,500",
+      "deadline": "2027-02-15",
+      "deadline_note": "Mid-February; exact date posted when it opens",
+      "category": "business",
+      "payout": "unconfirmed",
+      "eligibility": "IMA student members studying accounting or finance.",
+      "url": "https://www.imanet.org/membership/students/scholarships-competitions"
+    },
+    {
+      "name": "e-Fest Schulze Entrepreneurship Challenge",
+      "amount": "$250,000 total cash prizes",
+      "deadline": "2027-03-01",
+      "deadline_note": "Expected Jan 7 to Mar 1 based on last year; confirm when it opens",
+      "category": "business",
+      "payout": "direct",
+      "eligibility": "Undergraduate founders at colleges across North America.",
+      "url": "https://efest.biz/"
+    },
+    {
+      "name": "Spencer Educational Foundation Undergraduate Scholarship",
+      "amount": "$5,000 to $10,000",
+      "deadline": "2027-03-01",
+      "deadline_note": "Winners notified end of April",
+      "category": "business",
+      "payout": "unconfirmed",
+      "eligibility": "Undergraduates in the US or Canada planning a career in risk management, insurance or actuarial science, with at least one full year completed.",
+      "url": "https://www.spencered.org/scholarships"
+    },
+    {
+      "name": "AICPA Foundation Scholarship for Future CPAs",
+      "amount": "Varies",
+      "deadline": "2027-03-15",
+      "deadline_note": "Opens Dec 1, 2026",
+      "category": "business",
+      "payout": "unconfirmed",
+      "eligibility": "Undergraduates planning to become a CPA (accounting concentration).",
+      "url": "https://www.thiswaytocpa.com/education/aicpa-legacy-scholarships/future-cpas-scholarship/"
+    },
+    {
+      "name": "Hillel International Scholarships",
+      "amount": "$3,000 to $18,000 a year, renewable",
+      "deadline": "2027-03-20",
+      "deadline_note": "Opens January 2027. Estimated from the 2026 deadline of Mar 20; confirm when it opens.",
+      "category": "jewish",
+      "payout": "unconfirmed",
+      "eligibility": "Jewish students at four-year colleges in the US or Canada. Search their portal of 650+ Jewish scholarships for business-specific ones.",
+      "url": "https://www.hillel.org/scholarships/"
+    },
+    {
+      "name": "JVS SoCal Scholarship Program",
+      "amount": "Need-based, varies",
+      "deadline": "2027-03-31",
+      "deadline_note": "Estimated from the last cycle (Mar 31). Applies only if home is Greater Los Angeles.",
+      "category": "jewish-california",
+      "payout": "unconfirmed",
+      "eligibility": "Jewish, permanent resident of Greater LA, GPA 2.7+, financial need. Out-of-state colleges like YU are allowed.",
+      "url": "https://jvs-socal.org/jvs-scholarship-program/"
+    },
+    {
+      "name": "Jewish Federation Bay Area College Scholarships",
+      "amount": "About 70 awards a year (~$400K total)",
+      "deadline": null,
+      "deadline_note": "2026-27 is closed; 2027-28 dates not posted yet. Applies only if home is in the 9 Bay Area counties.",
+      "category": "jewish-california",
+      "payout": "unconfirmed",
+      "eligibility": "Jewish permanent residents of the Bay Area, merit and need based.",
+      "url": "https://jewishfed.org/what-we-do/our-programs/scholarships/college-scholarships/"
+    },
+    {
+      "name": "JFCS Educational Loans & Grants (San Francisco)",
+      "amount": "Up to $6,000 a year",
+      "deadline": null,
+      "deadline_note": "Rolling until funds run out, so apply early. Applies only if home is SF, Marin, Sonoma, San Mateo or northern Santa Clara County.",
+      "category": "jewish-california",
+      "payout": "unconfirmed",
+      "eligibility": "Jewish, community involvement, FAFSA with financial need, GPA 3.0+.",
+      "url": "https://www.jfcs.org/find-help/financial-assistance/educational-loans-grants/"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "NYSSCPA Excellence in Accounting / Moynihan Scholarships",
+      "reason": "Requires New York State residency"
+    },
+    {
+      "name": "Cal Grant",
+      "reason": "Only usable at California colleges"
+    },
+    {
+      "name": "New York TAP grant",
+      "reason": "Requires New York State residency"
+    },
+    {
+      "name": "Brawerman Fellowship (Jewish Federation LA)",
+      "reason": "High school seniors only"
+    },
+    {
+      "name": "Unigo scholarships",
+      "reason": "Not business-specific, and checks are payable only to the school"
+    }
+  ]
+}
